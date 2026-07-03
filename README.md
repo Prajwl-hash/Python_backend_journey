@@ -13,5 +13,5 @@ This repository documents my 60-day journey to becoming a Python Backend Develop
 ## Progress
 
 - [x] Day 01 - Python Basics
-- [ ] Day 02 - Operators & Conditional Statements
+- [x] Day 02 - Operators & Conditional Statements
 - [ ] Day 03 - Loops
