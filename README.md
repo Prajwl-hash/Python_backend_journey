@@ -3,6 +3,7 @@
 This repository documents my 60-day journey to becoming a Python Backend Developer.
 
 ## Goals
+
 - Learn Python from scratch
 - Master Git & GitHub
 - Build REST APIs with FastAPI
@@ -15,3 +16,7 @@ This repository documents my 60-day journey to becoming a Python Backend Develop
 - [x] Day 01 - Python Basics
 - [x] Day 02 - Operators & Conditional Statements
 - [ ] Day 03 - Loops
+
+## Learning Branch
+
+Currently practicing Git Branches (Day 4).
