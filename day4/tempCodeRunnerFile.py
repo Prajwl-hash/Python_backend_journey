@@ -9,11 +9,13 @@ while True:
         break
     elif difference >= 4:
         print("Too low!")
-    elif 2 <= difference <= 3:
+    elif 2 >= difference <= 3:
         print("low")
-    elif difference == 1 or difference == -1:
+    elif difference == 1:
         print(" very close")
-    elif -3 <= difference <= -2:
+    elif difference == -1:
+        print(" very close")
+    elif -3 >= difference <= -2:
         print("High")
     elif difference <= -4:
         print("Too high")
