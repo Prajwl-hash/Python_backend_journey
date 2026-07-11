@@ -41,7 +41,7 @@ def guess_game():
         guess = get_guess()
 
         if is_guess_correct(guess, secret_number):
-            print("🎉 Congratulations! You guessed correctly.")
+            print("Congratulations! You guessed correctly.")
             break
 
         difference = secret_number - guess
