@@ -1,3 +1,6 @@
+import pprint
+
+
 class Student:
 
     def __init__(self, name, age, department):
@@ -6,12 +9,10 @@ class Student:
         self.department = department
 
 
-
-
-name =input("Enter student name :")
-age =int(input("Enter student age :"))
-department =input("Enter student department name :")
-student1 = Student(name,age,department)
+name = input("Enter student name :")
+age = int(input("Enter student age :"))
+department = input("Enter student department name :")
+student1 = Student(name, age, department)
 
 student_data = [
     {
@@ -21,4 +22,4 @@ student_data = [
     }
 ]
 
-print(student_data)
+pprint.print(student_data)
