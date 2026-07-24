@@ -1,121 +1,63 @@
-# Python Backend Journey 🚀
+# Python Backend Journey 🐍
 
-## Progress Tracker
+A structured record of my journey learning Python backend development
+through hands-on coding, mini-projects, and progressively more complex
+backend concepts.
 
-### ✅ Day 1
-- Environment Setup
-- Python Basics
-- Variables
-- Input & Output
-- Arithmetic Operators
+## 🎯 Goal
 
----
+Build a strong foundation in Python and progress toward developing
+production-style backend applications and REST APIs.
 
-### ✅ Day 2
-- Conditional Statements
-- Login System
-- ATM PIN Challenge
-- Functions Introduction
+## 📚 What I'm Learning
 
----
+- Python fundamentals
+- Functions and modular programming
+- Object-Oriented Programming
+- Exception handling
+- File handling
+- Git and GitHub
+- REST API fundamentals
+- FastAPI
+- Database integration
+- Authentication and validation
+- Testing
 
-### ✅ Day 3
-- Secret Number Guessing Game
-- Function Decomposition
-- `get_guess()`
-- `is_guess_correct()`
-- `show_hints()`
-- `guess_game()`
+## 🛠️ Mini Projects & Practice
 
----
+This repository contains hands-on exercises and small projects developed
+throughout my learning journey.
 
-### ✅ Day 4
-- Function Practice
-- ATM Refactoring
-- Function Parameters
-- Return Values
-- Controller Functions
+Examples include:
 
----
-
-### ✅ Day 5
-#### Calculator Mini Project
-- add()
-- subtraction()
-- multiplication()
-- division()
-- show_menu()
-- perform_operation()
-- calculate()
-
-### Concepts
-- Function Design
-- Single Responsibility
-- Function Chaining
-- Clean Code
-
----
-
-### ✅ Day 6
-### Function Mastery
-
-Topics Covered
-
-- Default Parameters
-- Keyword Arguments
-- Multiple Return Values
-- Tuple Packing
-- Tuple Unpacking
-
-### Learning
-
-- Why functions exist
-- Function responsibilities
-- Software engineering mindset
-
----
-
-### ✅ Day 7
-
-### Lists
-
-Topics
-
-- Why Lists
-- Indexing
-- Negative Indexing
-- Updating Elements
-- for Loop
-- len()
-- range()
-- Updating Original List using Index
-
-### Mini Challenges
-
-- Grace Marks System
-- Updating List Elements
-
-### Key Learning
-
-- Difference between reading and modifying data.
-- Difference between value and index.
-- When to use `for item in list`.
-- When to use `range(len(list))`.
-
-
-## 📊 Journey Stats
-
-Days Completed : 7
-
-Mini Projects :
-- ATM
-- Secret Number Guessing Game
+- ATM simulation
+- Number guessing game
 - Calculator
-- Grace Marks System
+- Login system
+- Python function exercises
 
+More backend-focused projects will be added as I progress.
 
-Current Focus :
-Backend Development with Python
+## 🚀 Current Focus
 
-Next Topic :
-List Methods + List Mini Project
+- Strengthening Python fundamentals
+- Learning FastAPI
+- Building REST APIs
+- Understanding backend architecture
+- Contributing to open source
+
+## 🧰 Technologies
+
+- Python
+- FastAPI
+- Git
+- GitHub
+- VS Code
+- Postman
+
+## 📈 Progress
+
+This repository is continuously updated as I learn and build.
+
+The goal is not just to complete tutorials, but to understand each
+concept by implementing it independently.
